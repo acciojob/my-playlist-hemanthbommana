@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+*{
+	background-color: rgb(204, 204, 204);
+}
+h1,h2{
+	text-align:center;
+}
+a{
+	color:black;
+	background-color:white;
+	text-decoration-line:none;
+	
+	
+}
+.songs-list{
+	background-color:white;
+	border:2px solid black ;
+	border-radius:5px;
+	
+}
+.songs-list>#list>li{
+	background-color:white;
+	list-style-type: none;
+
+}
+ul{
+	background-color:white;
+	list-style-type: none;
+    padding-left: 20px;
+}
+.second{
+	border:2px solid black ;
+   
+	background-color: rgb(255, 255, 255);
+	padding:10px;
+	border-radius:5px;
+}
